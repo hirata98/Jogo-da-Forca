@@ -1,0 +1,3 @@
+C:/Users/tanak/OneDrive/Documents/2 Ano/PP/Forca4/cmake-build-debug/CMakeFiles/Forca4.dir
+C:/Users/tanak/OneDrive/Documents/2 Ano/PP/Forca4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanak/OneDrive/Documents/2 Ano/PP/Forca4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

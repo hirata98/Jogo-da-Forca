@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Forca4" targetName="Forca4" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="200e0f3f-68e4-43da-bc4b-43146955b10e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ie6Th7iKXJ1Aq1nq39VZ46XGxl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AED2/T3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Forca4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Forca4" TARGET_NAME="Forca4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Forca4" RUN_TARGET_NAME="Forca4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200e0f3f-68e4-43da-bc4b-43146955b10e" name="Default Changelist" comment="" />
+      <created>1602255719805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602255719805</updated>
+      <workItem from="1602255721483" duration="3827000" />
+      <workItem from="1603110163692" duration="1584000" />
+      <workItem from="1603111952914" duration="228000" />
+      <workItem from="1603112184365" duration="82000" />
+      <workItem from="1603112284535" duration="3501000" />
+      <workItem from="1603124281596" duration="20000" />
+      <workItem from="1603221489132" duration="13265000" />
+      <workItem from="1603314334802" duration="67000" />
+      <workItem from="1603380684057" duration="6859000" />
+      <workItem from="1603508718507" duration="6591000" />
+      <workItem from="1603593150084" duration="1819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602256688390">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.744@0.24.1366.744" timestamp="1602256688390" />
+    <state x="466" y="104" width="641" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602256687359">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="466" y="104" width="641" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.24.1366.744@0.24.1366.744" timestamp="1602256687359" />
+    <state x="491" y="115" width="376" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1603382371193">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="491" y="115" width="376" height="560" key="#com.intellij.ide.util.MemberChooser/0.24.1366.744@0.24.1366.744" timestamp="1603382371193" />
+    <state x="416" y="146" width="526" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603225332210">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="416" y="146" width="526" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1366.744@0.24.1366.744" timestamp="1603225332210" />
+    <state x="466" y="154" width="426" height="482" key="FileChooserDialogImpl" timestamp="1603124299136">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="466" y="154" width="426" height="482" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1603124299136" />
+    <state width="1324" height="176" key="GridCell.Tab.0.bottom" timestamp="1603594339998">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="176" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1603594339998" />
+    <state width="1324" height="176" key="GridCell.Tab.0.center" timestamp="1603594339997">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="176" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1603594339997" />
+    <state width="1324" height="176" key="GridCell.Tab.0.left" timestamp="1603594339997">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="176" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1603594339997" />
+    <state width="1324" height="176" key="GridCell.Tab.0.right" timestamp="1603594339998">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1324" height="176" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1603594339998" />
+    <state x="179" y="31" key="SettingsEditor" timestamp="1603112313024">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="179" y="31" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1603112313024" />
+    <state x="0" y="24" width="584" height="744" key="find.popup" timestamp="1602257510698">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="0" y="24" width="584" height="744" key="find.popup/0.24.1366.744@0.24.1366.744" timestamp="1602257510698" />
+    <state x="525" y="183" width="307" height="425" key="refactoring.ChangeSignatureDialog" timestamp="1603385222094">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="525" y="183" width="307" height="425" key="refactoring.ChangeSignatureDialog/0.24.1366.744@0.24.1366.744" timestamp="1603385222094" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/textos.h</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
