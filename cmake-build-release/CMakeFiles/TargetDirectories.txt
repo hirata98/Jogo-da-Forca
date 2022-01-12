@@ -1,3 +1,0 @@
-/home/hirata/OneDrive/Documents/PP/Forca4/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/home/hirata/OneDrive/Documents/PP/Forca4/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/hirata/OneDrive/Documents/PP/Forca4/cmake-build-release/CMakeFiles/Forca4.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++   -static-libstdc++ -static-libgcc -O3 -DNDEBUG   CMakeFiles/Forca4.dir/main.cpp.o CMakeFiles/Forca4.dir/textos.cpp.o CMakeFiles/Forca4.dir/textbox.cpp.o CMakeFiles/Forca4.dir/Buttun.cpp.o  -o Forca4  -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system 
